@@ -24,7 +24,7 @@ public class Main {
         linkedList.add("6");
 
         linkedList.remove(2);
-        linkedList.set(0,"9");
+        linkedList.set(0,"8");
         System.out.println(linkedList.get(0));
         System.out.println(linkedList.size());
         linkedList.display();
