@@ -9,6 +9,7 @@ public class Main {
         list.add("adaw5");
         list.add("adaw6");
         list.add("adaw7");
+        
         list.set(0,"aedd");
         System.out.println(list);
         list.subList(1, 6);
